@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.Dragon-Wizard19" name="[COLOR red][B]Dragon[/COLOR][/B] [COLOR white][B]Wizard19[/COLOR][/B]" version="3.0.6" provider-name="KodiDragon">
+<addon id="plugin.program.Dragon-Wizard19" name="[COLOR red][B]Dragon[/COLOR][/B] [COLOR white][B]Wizard19[/COLOR][/B]" version="3.0.8" provider-name="KodiDragon">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
